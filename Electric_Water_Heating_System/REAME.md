@@ -1,3 +1,5 @@
+Author: Ziad Ahmed Hassan El-Banna
+Email: ziadwizard612@gmail.com
 ## Exploring_AVR's.c
 
 This code controls an electric water heater system using an AVR microcontroller.
