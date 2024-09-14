@@ -1,7 +1,7 @@
 Author: Ziad Ahmed Hassan El-Banna
 
 Email: ziadwizard612@gmail.com
-## Exploring_AVR's.c
+## Electric_Watrer_Heating_System.c
 
 This code controls an electric water heater system using an AVR microcontroller.
 
@@ -34,7 +34,7 @@ This code controls an electric water heater system using an AVR microcontroller.
 - 2-Channel Relay Module 5Volts Control
 - 2x DC motors
 
-## Code Explanation: Exploring_AVR's.c
+## Code Explanation: Electric_Watrer_Heating_System.c
 
 # Purpose:
 This code controls an electric water heater system using an AVR microcontroller. It regulates the water temperature based on a user-set desired temperature, reads and averages temperature readings from an LM35 sensor, and provides user control via buttons.
